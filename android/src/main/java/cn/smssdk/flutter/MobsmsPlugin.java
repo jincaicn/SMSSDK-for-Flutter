@@ -1,5 +1,7 @@
 package cn.smssdk.flutter;
 
+import android.os.Handler;
+import android.os.Looper;
 import android.text.TextUtils;
 
 import org.json.JSONException;
